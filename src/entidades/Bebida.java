@@ -1,3 +1,8 @@
+/*
+Wesley Elbert Assis
+*/
+
+
 package entidades;
 
 public class Bebida extends Produto {
