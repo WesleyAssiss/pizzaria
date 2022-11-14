@@ -1,3 +1,7 @@
+/*
+Wesley Elbert Assis
+*/
+
 package aplicacao;
 
 import entidades.Administrador;
