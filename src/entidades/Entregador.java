@@ -1,3 +1,7 @@
+/*
+Wesley Elbert Assis
+*/
+
 package entidades;
 
 public class Entregador extends Funcionario {
