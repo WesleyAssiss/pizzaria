@@ -1,3 +1,7 @@
+/*
+Wesley Elbert Assis
+*/
+
 package entidades;
 
 import java.util.Calendar;
